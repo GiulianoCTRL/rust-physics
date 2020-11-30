@@ -1,0 +1,2 @@
+# rust-physics
+Physic formulae
